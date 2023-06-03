@@ -1,0 +1,66 @@
+head{
+  text-align: center;
+  width: 100%;
+}
+body {
+  min-width: 430px;
+  background-size: cover;
+  background-image: url("https://steyr109.github.io/img/back.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: "Academy", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 30px;
+}
+
+h1 {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Georgia", serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 56px;
+  color: #FFEE73;
+}
+
+h2 {
+  margin-left: 40px;
+  margin-top: 40px;
+  font-family: "Georgia", serif;
+  text-align: left;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 50px;
+  color: #FFEE73;
+}
+
+h3 {
+  margin-left: 40px;
+  /*margin-top: 10px;*/
+  font-family: "Georgia", serif;
+  text-align: left;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFEE73;
+}
+
+.hr-line {
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid #FFFB73;
+}
+
+.tovar {
+  padding-top: 200px;
+  margin-left: 40px;
+  margin-right: 50%;
+  background-image: url("https://steyr109.github.io/img/mant1.webp");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
